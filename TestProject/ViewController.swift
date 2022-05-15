@@ -36,6 +36,8 @@ class ViewController: UIViewController {
     @IBAction func switchAction(_ sender: UISwitch) {
          
         textLabel.isHidden = sender.isOn
+        // add new function
+        print("test)
     }
     
     @objc func changeMySlider(param: UISlider){
