@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+//https://mega.nz/fm/nXhkkCBL
     @IBOutlet weak var textLabel: UILabel!
     
     @IBOutlet weak var myView2: UIView!
